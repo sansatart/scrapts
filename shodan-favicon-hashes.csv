@@ -1,506 +1,604 @@
-http.favicon.hash,Product/Application,Example http.title,Example header(s) / ssl string,More Info
-81586312,Jenkins,Dashboard [Jenkins],"X-Jenkins: 
+"http.favicon.hash","Product/Application","Example http.title","Example header(s) / ssl string","More Info"
+81586312,"Jenkins","Dashboard [Jenkins]","X-Jenkins: 
 X-Hudson:
 X-Jenkins-Session:
 X-Hudson-Theme:",
--235701012,Cnservers LLC,,,
-743365239,Atlassian,,,
-2128230701,Chainpoint,Chainpoint Node Dashboard,,
--1277814690,LaCie,LaCie&nbsp,,
-246145559,Parse,Parse Dashboard,,
-628535358,Atlassian,,,
-855273746,JIRA,System Dashboard,,
-1318124267,Avigilon,Avigilon Control Center Gateway,,
--305179312,Atlassian – Confluence,,,
-786533217,OpenStack,Login - OpenStack Dashboard,,
-432733105,Pi Star,Digital Voice Dashboard,,
-705143395,Atlassian,,,
--1255347784,Angular IO (AnglularJS),,,
--1275226814,XAMPP,,,
--2009722838,React,,,
-981867722,Atlassian – JIRA,,,
--923088984,OpenStack,OpenStack Dashboard,,
-494866796,Aplikasi,Dashboard-Aplikasi,,
-2110041688,ระบบจองห้องประชุม,,,
--493051473,hxxp://www[.k2ie.net,Reflector Dashboard,,
-1249285083,Ubiquiti Aircube,airCube,,
--1379982221,Atlassian – Bamboo,,,
-420473080,Exostar – Managed Access Gateway,MAG Dashboard Login,,
--1642532491,Atlassian – Confluence,,,
-163842882,Cisco Meraki,Meraki Dashboard Login,,
--1378182799,Archivematica,Archivematica Dashboard,,
--702384832,TCN,TCN User Dashboard,,
--532394952,CX,CX Dashboard,,
--183163807,Ace,Dashboard - Ace Admin,,
-552727997,Atlassian – JIRA,,,
-1302486561,NetData,netdata dashboard,,
--609520537,OpenGeo Suite,OpenGeo Suite Dashboard,,
--1961046099,Dgraph Ratel,Dgraph Ratel Dashboard,,
--1581907337,Atlassian – JIRA,,,
-1913538826,Material Dashboard,Material Dashboard React,,
-1319699698,Form.io,,,
--1203021870,Kubeflow,Kubeflow Central Dashboard,,
--182423204,netdata dashboard,,,
-988422585,CapRover,,,
-2113497004,WiJungle,WiJungle Admin Dashboard,,
-1234311970,Onera,Onera Dynamic Availability Dashboard ,,
-430582574,SmartPing,SmartPing Dashboard,,
-1232596212,OpenStack,OpenStack Dashboard,,
-1585145626,netdata dashboard,,,
--219752612,FRITZ!Box, FRITZ!Box,,
--697231354,Ubiquiti – AirOS,,,
-945408572,Fortinet – Forticlient,,,
-1768726119,Outlook Web Application,Outlook Web App,,
-2109473187,Huawei – Claro,,CN = mediarouter.home,
-552592949,ASUS AiCloud,AiCloud,,
-631108382,SonicWALL,SonicWall – Authentication,Server: SonicWALL,
-708578229,Google,,,
--134375033,Plesk,,,
-2019488876,Dahua Storm (IP Camera),WEB SERVICE,,
--1395400951,Huawei – ADSL/Router,,,
-1601194732,Sophos Cyberoam (appliance),,,
--325082670,LANCOM Systems,,,
--1050786453,Plesk,,,
--1346447358,TilginAB (HomeGateway),myhome,,
-1410610129,Supermicro Intelligent Management (IPMI),,,
--440644339,Zyxel ZyWALL,,,
-363324987,Dell SonicWALL,DELL SonicWALL – Authentication,,
--1446794564,Ubiquiti Login Portals,Ubiquiti Networks,,
-1045696447,Sophos User Portal/VPN Portal,User Portal,,
--297069493,Apache Tomcat,,,
-396533629,OpenVPN,,,
-1462981117,Cyberoam,,,
-1772087922,ASP.net favicon,,,
-1594377337,Technicolor,,,
-165976831,Vodafone (Technicolor),,,
--1677255344,UBNT Router UI,EdgeOS,,
--359621743,Intelbras Wireless,,,
--677167908,Kerio Connect (Webmail),,,
-878647854,BIG-IP,,,
-442749392,Microsoft OWA,Outlook Web App,X-OWA-Version: 14.3.,
-1405460984,pfSense,Login,,
--271448102,iKuai Networks,,,
-31972968,Dlink Webcam,,,
-970132176,3CX Phone System,3CX Phone System Management Console,,
--1119613926,Bluehost,Bluehost.com,,
-123821839,Sangfor,SANGFOR,,
-459900502,ZTE Corporation (Gateway/Appliance),,,
--2069844696,Ruckus Wireless,Ruckus Wireless Admin,,
--1607644090,Bitnami,Bitnami Redmine Stack,,
-2141724739,Juniper Device Manager,Log In – Juniper Web Device Manager,,
-1835479497,Technicolor Gateway,Technicolor Gateway – Login,,
-1278323681,Gitlab,Sign in · GitLab,,
--1929912510,NETASQ - Secure / Stormshield,AUTHENTICATION,,
--1255992602,VMware Horizon,VMware Horizon,,
-1895360511,VMware Horizon,VMware Horizon,,
--991123252,VMware Horizon,VMware Horizon,,
-1642701741,Vmware Secure File Transfer,VMWARE Secure Data Transfer,,
--266008933,SAP Netweaver,SAP NetWeaver Application Server Java,,
--1967743928,SAP ID Service: Log On,,,
-1347937389,SAP Conversational AI,,,
-602431586,Palo Alto Login Portal,,,
--318947884,Palo Alto Networks,,,
-1356662359,Outlook Web Application,Outlook Web App,,
-1453890729,Webmin,Login to Webmin,,
--1814887000,Docker,Docker Enterprise,,
-1937209448,Docker,Docker Trusted Registry,,
--1544605732,Amazon,PHP Application - AWS Elastic Beanstalk,,
-716989053,Amazon,Amazon Web Services (AWS) - Cloud Computing Services,,
--1010568750,phpMyAdmin,phpMyAdmin ,Set-Cookie: phpMyAdmin,
--1240222446,"Zhejiang Uniview Technologies Co.,Ltd. | UNV IP camera / NVR – DVR",,,example plugin: 8d72b3c00dde9e18ccded063fd2ac545dd321e91  WebPlayer.exe
--986678507,ISP Manager,Authorization,Set-Cookie: ispmgr,hxxp://ispsystem[.com
--1616143106,AXIS (network cameras),Index page,,
--976235259,Roundcube Webmail,Roundcube Webmail,,
-768816037,UniFi Video Controller (airVision),,,https://dl.ubnt.com/datasheets/airvision/airVision_ds.pdf
-1015545776,pfSense,Login,,
-1838417872,Freebox OS,Freebox OS :: Identification,,
-1188645141,hxxps://www.hws[.com/?host,,,
-547282364,Keenetic,Keenetic Web,,https://keenetic.com/en
--1571472432,Sierra Wireless Ace Manager (Airlink),::: ACEmanager :::,,
-149371702,Synology DiskStation,,,
--1169314298,INSTAR IP Cameras,INSTAR IP Cameras,,
--1038557304,Webmin,Login to Webmin,,
-1307375944,Octoprint (3D printer),OctoPrint Login,,
-1280907310,Webmin,Login to Webmin,,
-1954835352,Vesta Hosting Control Panel,Vesta – LOGIN | Vesta Control Panel,,
-509789953,Farming Simulator Dedicated Server,Farming Simulator Dedicated Server | Login,,
--1933493443,Residential Gateway,Login - Residential Gateway,,
-1993518473,cPanel Login,cPanel Login,,
--1477563858,Arris,Login,,
--895890586,PLEX Server,,,
--1354933624,Dlink Webcam,,,
-944969688,Deluge,Deluge: Web UI,,
-479413330,Webmin,Login to Webmin,,
--359621743,Intelbras Wireless,,Server: axhttpd,
--435817905,Cambium Networks,ePMP,,
--981606721,Plesk,Domain Default page,X-Powered-By-Plesk: PleskWin,
-833190513,Dahua Storm (IP Camera),,,
--1314864135,10,10次郎-免费成人视频 – 10次郎在线观看,,
--652508439,Parallels Plesk Panel,Default Parallels Plesk Panel Page,,
--569941107,Fireware Watchguard,Fireware XTM User Authentication,Fireware web CA,
-1326164945,Shock&Innovation!! netis setup,Shock&Innovation!! netis setup,,
--1738184811,cacaoweb,cacaoweb,,
-904434662,Loxone (Automation),Webinterface,,
-905744673,HP Printer / Server,,Server: HP HTTP Server,
-902521196,Netflix,,,
--2063036701,Linksys Smart Wi-Fi,Linksys Smart Wi-Fi,,
--1205024243,lwIP (A Lightweight TCP/IP stack),,,(http://savannah.nongnu.org/projects/lwip)
-607846949,Hitron Technologies,Log in to Common Router - Hitron Technologies,,
-1281253102,Dahua Storm (DVR),,,
-661332347,MOBOTIX Camera,,"WWW-Authenticate: Basic realm=""MOBOTIX Camera User""",
--520888198,Blue Iris (Webcam),Blue Iris Login,Server: BlueServer,
-104189364,Vigor Router,Vigor 3900,O=Draytek,
-1227052603,Alibaba Cloud (Block Page),阿里云-备案-阻断页-PC,,
-252728887,DD WRT (DD-WRT milli_httpd),,,
--1922044295,Mitel Networks (MiCollab End User Portal),Redirecting…,,
-1221759509,Dlink Webcam,,"WWW-Authenticate: Digest realm=""DCS",
-1037387972,Dlink Router,"D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME",,
--655683626,PRTG Network Monitor,Welcome | PRTG Network Monitor,Server: PRTG,PRTG Network Monitor is an agentless network monitoring software from Paessler AG
-1611729805,Elastic (Database),,Elastic Indices:,
-1144925962,Dlink Webcam,,"WWW-Authenticate: Digest realm=""DCS",
--1666561833,Wildfly,Welcome to WildFly 10,Server: WildFly/,
-804949239,Cisco Meraki Dashboard,,,
--459291760,Workday,Workday,Server: Workday User Interface Service,financial management and human capital management software vendor
-1734609466,JustHost,Justhost.com,,
--1507567067,Baidu (IP error page),,,
-2006716043,Intelbras SA,,Server: axhttpd/1.5.3,
--1298108480,Yii PHP Framework (Default Favicon),,,https://www.yiiframework.com/doc/guide/2.0/en/intro-yii
-1782271534,truVision NVR (interlogix),Index page,Server: DNVRS-Webs,
-603314,Redmine,,Phusion Passenger,web-based project management and issue tracking tool
--476231906,phpMyAdmin,phpMyAdmin ,Set-Cookie: phpMyAdmin=,
--646322113,Cisco (eg:Conference Room Login Page),Cisco Codec:,,
--629047854,Jetty 404,Error 404 - Not Found,,
--1351901211,Luma Surveillance,index,Server: DNVRS-Webs,
--519765377,Parallels Plesk Panel,,,
--2144363468,HP Printer / Server,,Server: HP HTTP Server,
--127886975,Metasploit,Metasploit - Setup and Configuration,"eg. O=Rapid7, CN=SelfSignedCA",
-1139788073,Metasploit,Metasploit - Setup and Configuration,"eg. O=Rapid7, CN=SelfSignedCA",
--1235192469,Metasploit,Metasploit is initializing…,"eg. O=Rapid7, CN=SelfSignedCA",
-1876585825,ALIBI NVR,,Server: DNVRS-Webs,www.alibisecurity[ .com
--1810847295,Sangfor,,O=SANGFOR,
--291579889,Websockets test page (eg: port 5900),WS server test page,server: libwebsockets,
-1629518721,macOS Server,macOS Server,,
--986816620,OpenRG,Consola de administración de OpenRG,,
--299287097,Cisco Router,Router,"O=Cisco Systems, Inc.",
--1926484046,Sangfor,,CN=SANGFOR,
--873627015,HeroSpeed Digital Technology Co. (NVR/IPC/XVR),NVR,,example plugin: 283955c61f95df280793b6315da714677d0e616e  Nvr_WebOcx.exe
-2071993228,Nomadix Access Gateway,,Server: WindWeb/1.0,
-516963061,Gitlab,Sign in · GitLab,Set-Cookie: _gitlab_session,
--38580010,Magento,,X-Magento-Cache-Debug,Magento is an open-source e-commerce platform written in PHP. 
-1490343308,MK-AUTH,,MKAUTH: FILES,http://mk-auth.com.br/
--632583950,Shoutcast Server,,,
-95271369,FireEye,FireEye - Please Log in,,
-1476335317,FireEye,FireEye - Please Log in,,
--842192932,FireEye,FireEye Security Orchestrator,,
-105083909,FireEye,,,
-240606739,FireEye,FireEye Secure File Share Login,,
-2121539357,FireEye,,,
--333791179,Adobe Campaign Classic,,,https://helpx.adobe.com/support/campaign/classic.html
--1437701105,XAMPP,,,
--676077969,Niagara Web Server,Login,,
--2138771289,Technicolor,Login,O=Technicolor,hxxps://www.technicolor .com/
-711742418,Hitron Technologies Inc.,CGN-RES,Server: GoAhead-Webs,
-728788645,IBM Notes,,,
-1436966696,Barracuda,,Server: BarracudaHTTP,
-86919334,ServiceNow,ServiceNow,"O=ServiceNow, Inc., | Server: ServiceNow",
-1211608009,Openfire Admin Console,Openfire Admin Console,,
-2059618623,HP iLO,,,
-1975413433,Sunny WebBox,Sunny WebBox,Server: Sunny WebBox,
-943925975,ZyXEL,,,
-281559989,Huawei,,Server: mini_httpd,
--2145085239,Tenda Web Master,Tenda Web Master,,
--1399433489,Prometheus Time Series Collection and Processing Server,,,https://prometheus.io/
-1786752597,wdCP cloud host management system,wdCP云主机管理系统,,
-90680708,Domoticz (Home Automation),Domoticz,, https://github.com/domoticz/domoticz
--1441956789,Tableau,,,
--675839242,openWRT Luci,,,https://github.com/openwrt/luci
-1020814938,Ubiquiti – AirOS,,Set-Cookie: AIROS_SESSIONID=,
--766957661,MDaemon Webmail,MDaemon Webmail,,
-119741608,Teltonika,,,https://teltonika-iot-group.com/
-1973665246,Entrolink,,Server: AnyLink,
-74935566,WindRiver-WebServer,,Server: WindRiver-WebServer,
--1723752240,Microhard Systems,,"O=Microhard Systems Inc.,",
--1807411396,Skype,,,
--1612496354,Teltonika,,,
-1877797890,Eltex (Router),,,
--375623619,bintec elmeg,Configuration,,
-1483097076,SyncThru Web Service (Printers),,,
-1169183049,BoaServer,,Server: Boa,
-1051648103,Securepoint,Securepoint UTM v11 - Admin Interface,,https://www.securepoint.de
--438482901,Moodle,,,https://moodle.org
--1492966240,RADIX,RADIX – Alrit,,
-1466912879,CradlePoint Technology (Router),Login :: MBR95,O=CradlePoint Technology,
--167656799,Drupal,,,
--1593651747,Blackboard,Blackboard Learn,"O=Blackboard Inc,",
--895963602,Jupyter Notebook,,,
--972810761,HostMonster - Web hosting,HostMonster - Web hosting,,
-1703788174,D-Link (router/network),,,
-225632504,Rocket Chat,,,
--1702393021,mofinetwork,MOFI4500 – LuCI,,
-892542951,Zabbix,Zabbix server: Zabbix,,
-547474373,TOTOLINK (network),,,
--374235895,Ossia (Provision SR) | Webcam/IP Camera,,,
-1544230796,cPanel Login,,,
-517158172,D-Link (router/network),,,
-462223993,Jeedom (home automation),,,https://github.com/jeedom
-937999361,JBoss Application Server 7,,,
-1991562061,Niagara Web Server / Tridium,Login,,
-812385209,Solarwinds Serv-U FTP Server,,Server: Serv-U,https://www.solarwinds.com/serv-u-managed-file-transfer-server
-1142227528,Aruba (Virtual Controller),,,https://www.arubanetworks.com/techdocs/ArubaOS_63_Web_Help/Content/ArubaFrameStyles/Defaults/Default_Open_Ports.htm
--1153950306,Dell,,,
-72005642,RemObjects SDK / Remoting SDK for .NET HTTP Server Microsoft,,,remobjects.com
--484708885,Zyxel ZyWALL,,,
-706602230,VisualSVN Server,VisualSVN Server,"WWW-Authenticate: Basic realm=""VisualSVN Server""",
--656811182,Jboss,Welcome to Jboss,,
--332324409,STARFACE VoIP Software,STARFACE VoIP Software,,https://www.starface.com/
--594256627,Netis (network devices),,Server: Virtual Web 0.9,http://www.netis-systems.com
--649378830,WHM,WHM,,
-97604680,Tandberg,,Set-Cookie: tandberg_login,
--1015932800,Ghost (CMS),,,https://ghost.org/
--194439630,Avtech IP Surveillance (Camera),"Remote Surveillance, Any time & Any where",Avtech/1.0,
-129457226,Liferay Portal,,Liferay-Portal: Liferay,
--771764544,Parallels Plesk Panel,,,
--617743584,Odoo,Homepage | My Website,,https://www.odoo.com/
-77044418,Polycom,'+sysName+' - Polycom '+GetCurrentPageName ()+',,
-980692677,Cake PHP,,,
-476213314,Exacq,Index,,https://exacq.com/index.php
-794809961,CheckPoint,Check Point SSL Network Extender,Server: Check Point SVN foundation,
-1157789622,Ubiquiti UNMS,Ubiquiti UNMS,,
-1244636413,cPanel Login,,,
-1985721423,WorldClient for Mdaemon,WorldClient,,https://www.altn.com/Worldclient-Private-Email/
--1124868062,Netport Software (DSL),,Server: NetPort Software 1.1,
--335242539,f5 Big IP,BIG-IP&reg,- Redirect,
-2146763496,Mailcow,mailcow UI,,https://mailcow.email/
--1041180225,QNAP NAS Virtualization Station,Virtualization Station,,
--1319025408,Netgear,401 Unauthorized,,
-917966895,Gogs,,,https://gogs.io/
-512590457,Trendnet IP camera,index,,
-1678170702,Asustor,Ready to Serve!,O=Asustor,https://www.asustor.com/en/
--1466785234,Dahua,WEB SERVICE,,example plugin: 00de82e5df8e744c54fe1df2ce395df752486bcd  NetPlug.exe
--505448917,Discuz!,Powered by Discuz!,,
-255892555,wdCP cloud host management system,,,
-1627330242,Joomla,,,
--1935525788,SmarterMail,SmarterMail,,
--12700016,Seafile,Log In - Private Seafile,,https://www.seafile.com/en/home/
-1770799630,bintec elmeg,,,
--137295400,NETGEAR ReadyNAS,NETGEAR ReadyNAS,,
--195508437,iPECS,,,https://www.ipecs.com/
--2116540786,bet365,,,https://www.bet365.com/
--38705358,Reolink,Reolink,,https://reolink.com/software-and-manual/
--450254253,idera,Server Backup Manager SE,,
--1630354993,Proofpoint,Proofpoint Protection Server,Set-Cookie: pps_magic,
--1678298769,Kerio Connect WebMail,Kerio Connect WebMail,,
--35107086,WorldClient for Mdaemon,WorldClient,,
-2055322029,Realtek,,,
--692947551,Ruijie Networks (Login),锐捷网络-EWEB网管系统,,
--1710631084,Askey Cable Modem,Cable Modem,CN=Askey Cable Modem Root Certificate Authority,
-89321398,Askey Cable Modem,Residential Gateway Login,,
-90066852,JAWS Web Server (IP Camera),,Server: JAWS/1.0,
-768231242,JAWS Web Server (IP Camera),,Server: JAWS/1.0,
--421986013,Homegrown Website Hosting,"Homegrown Website Hosting | Fast, Reliable Web Hosting",,https://asmallorange.com
-156312019,Technicolor / Thomson Speedtouch (Network / ADSL),SpeedTouch – Home,"WWW-Authenticate: Digest realm=""SpeedTouch""",
--560297467,DVR (Korean),,,
--1950415971,Joomla,,X-Content-Powered-By: K2 v2.9.0 (by JoomlaWorks),
-1842351293,TP-LINK (Network Device),300Mbps Wireless N ADSL2+ Modem Router TD-W8960N,,
-1433417005,Salesforce,Login | Salesforce,,
--632070065,Apache Haus,Apache Haus Distribution Installation Test ,,https://www.apachehaus.com/
-1103599349,Untangle,Untangle Administrator Login,O=Untangle,https://wiki.untangle.com/index.php/Main_Page
-224536051,"Shenzhen coship electronics co.,ltd",Login,,seen only in Telmex Colombia S.A. org
-1038500535,D-Link (router/network),Login,,
--355305208,D-Link (camera),,"WWW-Authenticate: Digest realm=""DCS",
--267431135,Kibana,Kibana,kbn-name: kibana,
--759754862,Kibana,Kibana,kbn-name: kibana,
--1200737715,Kibana,Kibana,kbn-name: kibana,
-75230260,Kibana,Kibana 4,X-App-Name: kibana,
-1668183286,Kibana,Kibana 3,,
-283740897,Intelbras SA,Intelbras,Server: Http Server,
-1424295654,Icecast Streaming Media Server,Icecast Streaming Media Server,Server: Icecast,https://icecast.org/
-1922032523,NEC WebPro,WebPro,Server: Henry/1.1,
--1654229048,Vivotek (Camera),,"Server: VVTK-HTTP-Server | O=Vivotek.Inc,",
--1414475558,Microsoft IIS,,Server: Microsoft-IIS,
--1697334194,Univention Portal,,(Univention),https://www.univention.com
--1424036600,Portainer (Docker Management),,,https://www.portainer.io/
--1096644865,(Blank) ewomail,ewomail.com-邮箱管理后台,,www.ewomail.com
--831826827,NOS Router,Consola de gestão do Router Wi-Fi,,https://www.nos.pt
--759108386,Tongda,,,www.tongda.com
--1022206565,CrushFTP,CrushFTP WebInterface,,https://www.crushftp.com/crush8wiki/Wiki.jsp?page=WebInterface
--1225484776,Endian Firewall,401 Authorization Required,,/manage/dashboard
--631002664,Kerio Control Firewall,,Server: Kerio Control Embedded Web Server,https://www.gfi.com/products-and-solutions/network-security-solutions/kerio-control
-2072198544,Ferozo Panel,Panel de control de hosting,,
--466504476,Kerio Control Firewall,,Server: Kerio Control Embedded Web Server,https://www.gfi.com/products-and-solutions/network-security-solutions/kerio-control
-1251810433,Cafe24 (Korea),카페24 쇼핑몰 :: 창업자의 꿈이 시작되는 곳,CN=*.cafe24.com,"cafe24 is a global e-commerce platform, and has 8 sites around the world including the United States, China, Japan, the Philippines, and Taiwan"
-1273982002,Mautic (Open Source Marketing Automation),Mautic,,https://www.mautic.org/
--978656757,NETIASPOT (Network),Konsola zarządzania NETIASPOT,,internet access device and television services offered by Netia |  telecoms company which owns the second-largest fixed-line network in Poland
-916642917,Multilaser,Multilaser | Login,,Multilaser is an electronics company based in Brazil
-575613323,Canvas LMS (Learning Management),,X-A11y-Ally: Dana Danger Grey,
-1726027799,IBM Server,,,
--587741716,ADB Broadband S.p.A. (Network),Residential Gateway - ADB Italia,Server: ADB Broadband HTTP Server,
--360566773,ARRIS (Network),ARRIS,,
--884776764,Huawei (Network),,,
-929825723,WAMPSERVER,WAMPSERVER Homepage,,"Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language"
-240136437,Seagate Technology (NAS),,,
-1911253822,UPC Ceska Republica (Network),,Set-Cookie: name=Session,UPC Ceska Republica is an internet service provider which operates in Czech Republic.
--393788031,Flussonic (Video Streaming),Flussonic Admin UI,Server: Flussonic,https://flussonic.com/en-us/
-366524387,Joomla,,,
-443944613,WAMPSERVER,WAMPSERVER Homepage,,"Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language"
-1953726032,Metabase,Metabase,,https://www.metabase.com/docs/latest/ (open source Business Intelligence server)
--2031183903,D-Link (Network),,,primarily observed in Russia
-545827989,MobileIron,MobileIron System Manager: Sign In,,
-967636089,MobileIron,MobileIron System Manager: Sign In,,
-362091310,MobileIron,MobileIron System Manager: Sign In,,
-2086228042,MobileIron,Sign In to MobileIron Cloud,,
--1588746893,CommuniGate,CommuniGate Pro Setup,Server: CommuniGatePro,Email Server
-1427976651,ZTE (Network),,Server: Mini web server 1.0 ZTE corp,
-1648531157,InfiNet Wireless | WANFleX (Network),,Server: WANFleX HTTP Daemon v2.0 | O=InfiNet Wireless,https://trademarks.justia.com/771/55/wanflex-77155234.html
-938616453,Mersive Solstice,,Server: Solstice 2.0,https://www.mersive.com/products/solstice/
-1632780968,Université Toulouse 1 Capitole,,,univ-tlse1.fr
-2068154487,Digium (Switchvox),,,https://www.digium.com/products/business-phone-systems
--1788112745,PowerMTA monitoring,PowerMTA monitoring,,port25 solutions
--644617577,SmartLAN/G,SmartLAN/G Web Interface,,
--1822098181,Checkpoint (Gaia),Gaia,Server: CPWS,https://sc1.checkpoint.com/documents/R76/CP_R76_Gaia_WebAdmin/73102.htm
--1131689409,УТМ (Federal Service for Alcohol Market Regulation | Russia),УТМ,,
-2127152956,MailWizz,MailWizz | Welcome,,https://www.mailwizz.com/
-1064742722,RabbitMQ,RabbitMQ Management,,RabbitMQ is an open-source message-broker software
--693082538,openmediavault (NAS),openmediavault control panel,,https://www.openmediavault.org/
-1941381095,openWRT Luci,Openwrt – LuCI,,
-903086190,Honeywell,WEB SERVICE,,
-829321644,BOMGAR Support Portal,Remote Support Portal | Powered by BOMGAR,,
--1442789563,Nuxt JS,,,
--2140379067,RoundCube Webmail,RoundCube Webmail :: Welcome to RoundCube Webmail,Set-Cookie: roundcube_sessid,
--1897829998,D-Link (camera),,Server: alphapd,
-1047213685,Netgear (Network),,,
-1485257654,SonarQube,SonarQube,,SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality
--299324825,Lupus Electronics XT,Welcome,O=LUPUS Electronics GmbH,https://www.lupus-electronics.de/en/lupus-xt-model-series/overview/
--1162730477,Vanderbilt SPC,SPC4300,O=Vanderbilt International Ireland Ltd OU=Security Products CN=SPC,https://vanderbiltindustries.com/spc
--1268095485,VZPP Plesk,VZPP Plesk - Log in to Plesk ,,
-1118684072,Baidu,,,
--1616115760,ownCloud,ownCloud,,
--2054889066,Sentora,Control Panel – Login,,http://www.sentora.org/ | Open Source Web Panel
-1333537166,Alfresco,,O=Alfresco Software Ltd.,https://www.alfresco.com/
--373674173,Digital Keystone (DK),MDU MOCUR,Server: DOTS 2.0 UPnP/1.0 MDU MOCUR,http://www.digitalkeystone.com/
--106646451,WISPR (Airlan),401 Authorization Required,"WWW-Authenticate: Basic realm=""WISPR"" | Server: WISPR",
-1235070469,Synology VPN Plus,VPN Plus,,https://www.synology.com/en-us/srm/feature/vpn_plus
-2063428236,Sentry,Login | Sentry,,https://sentry.io/
-15831193,WatchGuard,WatchGuard Access Portal,Set-Cookie: wg_portald_session_id | O=WatchGuard,https://www.watchguard.com/
--956471263,Web Client Pro,Web Client Pro,WebClientPro.cab,
--1452159623,Tecvoz,,,https://www.tecvoz.com.br/
-99432374,MDaemon Remote Administration,MDaemon Remote Administration,,"MDaemon Technologies, Ltd. "
-727253975,Paradox IP Module,Paradox IP Module,,https://www.paradox.com/Products/
--630493013,DokuWiki,,Set-Cookie: DokuWiki,https://www.dokuwiki.org/dokuwiki
-552597979,Sails,New Sails App,X-Powered-By: Sails <sailsjs.com>,
-774252049,FastPanel Hosting,302 Found,,https://fastpanel.direct/
--329747115,C-Lodop,Welcome to C-Lodop,,The Cloud Web Service System for Lodop HTML Print
-1262005940,Jamf Pro Login,Jamf Pro Login,,
-979634648,StruxureWare (Schneider Electric),StruxureWare,,
-475379699,Axcient Replibit Management Server,Replibit Management Server,,https://support.efolder.net/hc/en-us/categories/115000502027-Axcient-Replibit
--878891718,Twonky Server (Media Streaming),Twonky Server,Twonky UPnP SDK,https://twonky.com/ | TwonkyMedia server is DLNA-compliant UPnP AV server software
--2125083197,Windows Azure,Page not found,Server: Windows-Azure-Blob/1.0,
--1151675028,ISP Manager (Web Hosting Panel),Authorization,,https://www.ispsystem.com/
-1248917303,JupyterHub,JupyterHub,X-jupyterhub-version,https://jupyterhub.readthedocs.io/en/stable/
--1908556829,CenturyLink Modem GUI Login (eg: Technicolor),Advanced Setup - Security - Admin User Name &amp; Password,Set-Cookie: CLINK_SESSION_ID,
-1059329877,Tecvoz,,,https://www.tecvoz.com.br/
--1148190371,OPNsense,Login,Server: OPNsense,https://opnsense.org/
-1467395679,Ligowave (network),,O=LigoWave LLC,https://www.ligowave.com/
--1528414776,Rumpus,Web File Manager,Server: Rumpus,https://www.maxum.com/Rumpus/
--2117390767,Spiceworks (panel),Spiceworks,Set-Cookie: spiceworks_session=,"“Network management made simple"" | https://www.spiceworks.com/about/"
--1944119648,TeamCity,Log in to TeamCity &mdash; TeamCity,TeamCity-Node-Id:,https://www.jetbrains.com/teamcity/
--1748763891,INSTAR Full-HD IP-Camera,INSTAR Full-HD IP-Camera,Server: Ipcam,https://www.instar.de/
-251106693,GPON Home Gateway,,,
--1779611449,Alienvault,,,
--1745552996,Arbor Networks,,,
-1157181149,?,木瓜视频官方网站,,
--2051649833,?,,,
-116323821,?,,,
-490244855,?,Login Dashboard,,
--1101754425,?,,,
--47597126,?,,,
--206623908,?,,,
-999357577,? (Possibly DVR),,,
--386189083,?,,,
-1127621346,?,,,
-1632680057,?,LiveConfig – Login,,
-492290497,? (Possible IP Camera),,,
--1457323588,?,404 Not Found,,
-1653394551,?,WEB SERVICE,,
-1182229825,?,,,
--234896770,?,,,
--1472641661,?,Bad Request,,
-1918884058,?,Bad Request,,
-130131457,?,,,
-110768013,?,,Server: Boa/0.94.14rc21,
-1109114727,?,,HTTP/1.1 404 Not Found,
--405780529,?,,Server: Virata-EmWeb/R6_0_1,
--1166284431,?,Bad Request,,
--1309951014,?,,,
-499417227,?,,,
--2063807194,?,,,
-1165838194,?,,,
-1446401848,?,,,
-1732654699,?,Bad Request,nginx/1.16.0-upupw,
--1987375206,?,,,
--526552280,?,,,
--709611873,?,Bad Request,,
--1593512546,?,,,
--927923449,?,,,
--2067519629,?,,,
--659140727,?,Bad Request,,
-1914658187,?,,,
--1060318941,?,,Server: HTTPD,
-483277933,?,,,
-1578525679,?,,Server: Resin,
--1252041730,?,,,
-1223557693,?,,,
-2107438913,?,,,
-984279902,?,,,
--2144075010,?,Espansione IP Vedo,,
-1917028407,?,,,
-441475721,?,,,
-1782913455,?,,,
--785381255,?,,,
--1134712852,?,,,
--2098842484,?,,,seen only on globalfrag networks
--554365658,?,,,
-891145488,?,,,
-1023924156,?,,,
-1172440114,?,,,
--1699012080,?,,,
-400100893,? (DVR),,,"example plugin: be35bc4df60909fc42d2ee2eb9a7c5d726b32341  WebClient_VPPlugin.exe (Chipspoint Electronics Co., Ltd)"
--1645439195,?,,,
-1486876794,?,,,
-1235613725,?,&#65279&#35947&#28216&#26827&#29260&#13,,
--926883833,?,网站长标题,,
-1217458389,?,Bad Request,,
--337520637,?,,,
--886176738,?,,,
-305967937,?,,,
-73066977,(Blank),,,
-1370833863,(Blank),,,
--1779876810,(Blank),,,
--452641300,(Blank),,,
--725636930,(Blank),,,
-97040601,(Blank),,,
-294536354,(Blank),安全入口校验失败,,
-639408214,(Blank) (paiza.cloud),,__proxy_error__/497.html (paiza.cloud),
--471602503,(Blank),,,
--933661998,(Blank),,Server: Kestrel,
-509258457,(Blank),,,
--838664871,(Blank),,,
--1662783523,(Blank),,,
-1274734426,(Blank),,,
--488620570,(Blank),,,
--1993690156,(Blank),,,
--1361277238,(Blank),,,
--1132923558,(Blank),,,
-2122595294,(Blank),,,
-1747323616,(Blank),,,
--1856090503,(Blank),,,
--2088429648,(Blank),,,
-1870317857,(Blank),,Server: IPWEBS/1.4.0,
--1206367560,(Blank),,,
--1783340557,(Blank),,,
-149479534,(Blank),,,
-1417317318,(Blank),,,
-1694507817,(Blank),,,
-1391058259,(Blank),,,
--1270699277,(Blank),,,
-529136617,(Blank),,,
+-235701012,"Cnservers LLC",,,
+743365239,"Atlassian",,,
+2128230701,"Chainpoint","Chainpoint Node Dashboard",,
+-1277814690,"LaCie","LaCie&nbsp",,
+246145559,"Parse","Parse Dashboard",,
+628535358,"Atlassian",,,
+855273746,"JIRA","System Dashboard",,
+1318124267,"Avigilon","Avigilon Control Center Gateway",,
+-305179312,"Atlassian – Confluence",,,
+786533217,"OpenStack","Login - OpenStack Dashboard",,
+432733105,"Pi Star","Digital Voice Dashboard",,
+705143395,"Atlassian",,,
+-1255347784,"Angular IO (AnglularJS)",,,
+-1275226814,"XAMPP",,,
+-2009722838,"React",,,
+981867722,"Atlassian – JIRA",,,
+-923088984,"OpenStack","OpenStack Dashboard",,
+494866796,"Aplikasi","Dashboard-Aplikasi",,
+2110041688,"ระบบจองห้องประชุม",,,
+-493051473,"hxxp://www[.k2ie.net","Reflector Dashboard",,
+1249285083,"Ubiquiti Aircube","airCube",,
+-1379982221,"Atlassian – Bamboo",,,
+420473080,"Exostar – Managed Access Gateway","MAG Dashboard Login",,
+-1642532491,"Atlassian – Confluence",,,
+163842882,"Cisco Meraki","Meraki Dashboard Login",,
+-1378182799,"Archivematica","Archivematica Dashboard",,
+-702384832,"TCN","TCN User Dashboard",,
+-532394952,"CX","CX Dashboard",,
+-183163807,"Ace","Dashboard - Ace Admin",,
+552727997,"Atlassian – JIRA",,,
+1302486561,"NetData","netdata dashboard",,
+-609520537,"OpenGeo Suite","OpenGeo Suite Dashboard",,
+-1961046099,"Dgraph Ratel","Dgraph Ratel Dashboard",,
+-1581907337,"Atlassian – JIRA",,,
+1913538826,"Material Dashboard","Material Dashboard React",,
+1319699698,"Form.io",,,
+-1203021870,"Kubeflow","Kubeflow Central Dashboard",,
+-182423204,"netdata dashboard",,,
+988422585,"CapRover",,,
+2113497004,"WiJungle","WiJungle Admin Dashboard",,
+1234311970,"Onera","Onera Dynamic Availability Dashboard ",,
+430582574,"SmartPing","SmartPing Dashboard",,
+1232596212,"OpenStack","OpenStack Dashboard",,
+1585145626,"netdata dashboard",,,
+-219752612,"FRITZ!Box"," FRITZ!Box",,
+-697231354,"Ubiquiti – AirOS",,,
+945408572,"Fortinet – Forticlient",,,
+1768726119,"Outlook Web Application","Outlook Web App",,
+2109473187,"Huawei – Claro",,"CN = mediarouter.home",
+552592949,"ASUS AiCloud","AiCloud",,
+631108382,"SonicWALL","SonicWall – Authentication","Server: SonicWALL",
+708578229,"Google",,,
+-134375033,"Plesk",,,
+2019488876,"Dahua Storm (IP Camera)","WEB SERVICE",,
+-1395400951,"Huawei – ADSL/Router",,,
+1601194732,"Sophos Cyberoam (appliance)",,,
+-325082670,"LANCOM Systems",,,
+-1050786453,"Plesk",,,
+-1346447358,"TilginAB (HomeGateway)","myhome",,
+1410610129,"Supermicro Intelligent Management (IPMI)",,,
+-440644339,"Zyxel ZyWALL",,,
+363324987,"Dell SonicWALL","DELL SonicWALL – Authentication",,
+-1446794564,"Ubiquiti Login Portals","Ubiquiti Networks",,
+1045696447,"Sophos User Portal/VPN Portal","User Portal",,
+-297069493,"Apache Tomcat",,,
+396533629,"OpenVPN",,,
+1462981117,"Cyberoam",,,
+1772087922,"ASP.net favicon",,,
+1594377337,"Technicolor",,,
+165976831,"Vodafone (Technicolor)",,,
+-1677255344,"UBNT Router UI","EdgeOS",,
+-359621743,"Intelbras Wireless",,,
+-677167908,"Kerio Connect (Webmail)",,,
+878647854,"BIG-IP",,,
+442749392,"Microsoft OWA","Outlook Web App","X-OWA-Version: 14.3.",
+1405460984,"pfSense","Login",,
+-271448102,"iKuai Networks",,,
+31972968,"Dlink Webcam",,,
+970132176,"3CX Phone System","3CX Phone System Management Console",,
+-1119613926,"Bluehost","Bluehost.com",,
+123821839,"Sangfor","SANGFOR",,
+459900502,"ZTE Corporation (Gateway/Appliance)",,,
+-2069844696,"Ruckus Wireless","Ruckus Wireless Admin",,
+-1607644090,"Bitnami","Bitnami Redmine Stack",,
+2141724739,"Juniper Device Manager","Log In – Juniper Web Device Manager",,
+1835479497,"Technicolor Gateway","Technicolor Gateway – Login",,
+1278323681,"Gitlab","Sign in · GitLab",,
+-1929912510,"NETASQ - Secure / Stormshield","AUTHENTICATION",,
+-1255992602,"VMware Horizon","VMware Horizon",,
+1895360511,"VMware Horizon","VMware Horizon",,
+-991123252,"VMware Horizon","VMware Horizon",,
+1642701741,"Vmware Secure File Transfer","VMWARE Secure Data Transfer",,
+-266008933,"SAP Netweaver","SAP NetWeaver Application Server Java",,
+-1967743928,"SAP ID Service: Log On",,,
+1347937389,"SAP Conversational AI",,,
+602431586,"Palo Alto Login Portal",,,
+-318947884,"Palo Alto Networks",,,
+1356662359,"Outlook Web Application","Outlook Web App",,
+1453890729,"Webmin","Login to Webmin",,
+-1814887000,"Docker","Docker Enterprise",,
+1937209448,"Docker","Docker Trusted Registry",,
+-1544605732,"Amazon","PHP Application - AWS Elastic Beanstalk",,
+716989053,"Amazon","Amazon Web Services (AWS) - Cloud Computing Services",,
+-1010568750,"phpMyAdmin","phpMyAdmin ","Set-Cookie: phpMyAdmin",
+-1240222446,"Zhejiang Uniview Technologies Co.,Ltd. | UNV IP camera / NVR – DVR",,,"example plugin: 8d72b3c00dde9e18ccded063fd2ac545dd321e91  WebPlayer.exe"
+-986678507,"ISP Manager","Authorization","Set-Cookie: ispmgr","hxxp://ispsystem[.com"
+-1616143106,"AXIS (network cameras)","Index page",,
+-976235259,"Roundcube Webmail","Roundcube Webmail",,
+768816037,"UniFi Video Controller (airVision)",,,"https://dl.ubnt.com/datasheets/airvision/airVision_ds.pdf"
+1015545776,"pfSense","Login",,
+1838417872,"Freebox OS","Freebox OS :: Identification",,
+1188645141,"hxxps://www.hws[.com/?host",,,
+547282364,"Keenetic","Keenetic Web",,"https://keenetic.com/en"
+-1571472432,"Sierra Wireless Ace Manager (Airlink)","::: ACEmanager :::",,
+149371702,"Synology DiskStation",,,
+-1169314298,"INSTAR IP Cameras","INSTAR IP Cameras",,
+-1038557304,"Webmin","Login to Webmin",,
+1307375944,"Octoprint (3D printer)","OctoPrint Login",,
+1280907310,"Webmin","Login to Webmin",,
+1954835352,"Vesta Hosting Control Panel","Vesta – LOGIN | Vesta Control Panel",,
+509789953,"Farming Simulator Dedicated Server","Farming Simulator Dedicated Server | Login",,
+-1933493443,"Residential Gateway","Login - Residential Gateway",,
+1993518473,"cPanel Login","cPanel Login",,
+-1477563858,"Arris","Login",,
+-895890586,"PLEX Server",,,
+-1354933624,"Dlink Webcam",,,
+944969688,"Deluge","Deluge: Web UI",,
+479413330,"Webmin","Login to Webmin",,
+-359621743,"Intelbras Wireless",,"Server: axhttpd",
+-435817905,"Cambium Networks","ePMP",,
+-981606721,"Plesk","Domain Default page","X-Powered-By-Plesk: PleskWin",
+833190513,"Dahua Storm (IP Camera)",,,
+-1314864135,10,"10次郎-免费成人视频 – 10次郎在线观看",,
+-652508439,"Parallels Plesk Panel","Default Parallels Plesk Panel Page",,
+-569941107,"Fireware Watchguard","Fireware XTM User Authentication","Fireware web CA",
+1326164945,"Shock&Innovation!! netis setup","Shock&Innovation!! netis setup",,
+-1738184811,"cacaoweb","cacaoweb",,
+904434662,"Loxone (Automation)","Webinterface",,
+905744673,"HP Printer / Server",,"Server: HP HTTP Server",
+902521196,"Netflix",,,
+-2063036701,"Linksys Smart Wi-Fi","Linksys Smart Wi-Fi",,
+-1205024243,"lwIP (A Lightweight TCP/IP stack)",,,"(http://savannah.nongnu.org/projects/lwip)"
+607846949,"Hitron Technologies","Log in to Common Router - Hitron Technologies",,
+1281253102,"Dahua Storm (DVR)",,,
+661332347,"MOBOTIX Camera",,"WWW-Authenticate: Basic realm=""MOBOTIX Camera User""",
+-520888198,"Blue Iris (Webcam)","Blue Iris Login","Server: BlueServer",
+104189364,"Vigor Router","Vigor 3900","O=Draytek",
+1227052603,"Alibaba Cloud (Block Page)","阿里云-备案-阻断页-PC",,
+252728887,"DD WRT (DD-WRT milli_httpd)",,,
+-1922044295,"Mitel Networks (MiCollab End User Portal)","Redirecting…",,
+1221759509,"Dlink Webcam",,"WWW-Authenticate: Digest realm=""DCS",
+1037387972,"Dlink Router","D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME",,
+-655683626,"PRTG Network Monitor","Welcome | PRTG Network Monitor","Server: PRTG","PRTG Network Monitor is an agentless network monitoring software from Paessler AG"
+1611729805,"Elastic (Database)",,"Elastic Indices:",
+1144925962,"Dlink Webcam",,"WWW-Authenticate: Digest realm=""DCS",
+-1666561833,"Wildfly","Welcome to WildFly 10","Server: WildFly/",
+804949239,"Cisco Meraki Dashboard",,,
+-459291760,"Workday","Workday","Server: Workday User Interface Service","financial management and human capital management software vendor"
+1734609466,"JustHost","Justhost.com",,
+-1507567067,"Baidu (IP error page)",,,
+2006716043,"Intelbras SA",,"Server: axhttpd/1.5.3",
+-1298108480,"Yii PHP Framework (Default Favicon)",,,"https://www.yiiframework.com/doc/guide/2.0/en/intro-yii"
+1782271534,"truVision NVR (interlogix)","Index page","Server: DNVRS-Webs",
+603314,"Redmine",,"Phusion Passenger","web-based project management and issue tracking tool"
+-476231906,"phpMyAdmin","phpMyAdmin ","Set-Cookie: phpMyAdmin=",
+-646322113,"Cisco (eg:Conference Room Login Page)","Cisco Codec:",,
+-629047854,"Jetty 404","Error 404 - Not Found",,
+-1351901211,"Luma Surveillance","index","Server: DNVRS-Webs",
+-519765377,"Parallels Plesk Panel",,,
+-2144363468,"HP Printer / Server",,"Server: HP HTTP Server",
+-127886975,"Metasploit","Metasploit - Setup and Configuration","eg. O=Rapid7, CN=SelfSignedCA",
+1139788073,"Metasploit","Metasploit - Setup and Configuration","eg. O=Rapid7, CN=SelfSignedCA",
+-1235192469,"Metasploit","Metasploit is initializing…","eg. O=Rapid7, CN=SelfSignedCA",
+1876585825,"ALIBI NVR",,"Server: DNVRS-Webs","www.alibisecurity[ .com"
+-1810847295,"Sangfor",,"O=SANGFOR",
+-291579889,"Websockets test page (eg: port 5900)","WS server test page","server: libwebsockets",
+1629518721,"macOS Server (Apple)","macOS Server",,
+-986816620,"OpenRG","Consola de administración de OpenRG",,
+-299287097,"Cisco Router","Router","O=Cisco Systems, Inc.",
+-1926484046,"Sangfor",,"CN=SANGFOR",
+-873627015,"HeroSpeed Digital Technology Co. (NVR/IPC/XVR)","NVR",,"example plugin: 283955c61f95df280793b6315da714677d0e616e  Nvr_WebOcx.exe"
+2071993228,"Nomadix Access Gateway",,"Server: WindWeb/1.0",
+516963061,"Gitlab","Sign in · GitLab","Set-Cookie: _gitlab_session",
+-38580010,"Magento",,"X-Magento-Cache-Debug","Magento is an open-source e-commerce platform written in PHP. "
+1490343308,"MK-AUTH",,"MKAUTH: FILES","http://mk-auth.com.br/"
+-632583950,"Shoutcast Server",,,
+95271369,"FireEye","FireEye - Please Log in",,
+1476335317,"FireEye","FireEye - Please Log in",,
+-842192932,"FireEye","FireEye Security Orchestrator",,
+105083909,"FireEye",,,
+240606739,"FireEye","FireEye Secure File Share Login",,
+2121539357,"FireEye",,,
+-333791179,"Adobe Campaign Classic",,,"https://helpx.adobe.com/support/campaign/classic.html"
+-1437701105,"XAMPP",,,
+-676077969,"Niagara Web Server","Login",,
+-2138771289,"Technicolor","Login","O=Technicolor","hxxps://www.technicolor .com/"
+711742418,"Hitron Technologies Inc.","CGN-RES","Server: GoAhead-Webs",
+728788645,"IBM Notes",,,
+1436966696,"Barracuda",,"Server: BarracudaHTTP",
+86919334,"ServiceNow","ServiceNow","O=ServiceNow, Inc., | Server: ServiceNow",
+1211608009,"Openfire Admin Console","Openfire Admin Console",,
+2059618623,"HP iLO",,,
+1975413433,"Sunny WebBox","Sunny WebBox","Server: Sunny WebBox",
+943925975,"ZyXEL",,,
+281559989,"Huawei",,"Server: mini_httpd",
+-2145085239,"Tenda Web Master","Tenda Web Master",,
+-1399433489,"Prometheus Time Series Collection and Processing Server",,,"https://prometheus.io/"
+1786752597,"wdCP cloud host management system","wdCP云主机管理系统",,
+90680708,"Domoticz (Home Automation)","Domoticz",," https://github.com/domoticz/domoticz"
+-1441956789,"Tableau",,,
+-675839242,"openWRT Luci",,,"https://github.com/openwrt/luci"
+1020814938,"Ubiquiti – AirOS",,"Set-Cookie: AIROS_SESSIONID=",
+-766957661,"MDaemon Webmail","MDaemon Webmail",,
+119741608,"Teltonika",,,"https://teltonika-iot-group.com/"
+1973665246,"Entrolink",,"Server: AnyLink",
+74935566,"WindRiver-WebServer",,"Server: WindRiver-WebServer",
+-1723752240,"Microhard Systems",,"O=Microhard Systems Inc.,",
+-1807411396,"Skype",,,
+-1612496354,"Teltonika",,,
+1877797890,"Eltex (Router)",,,
+-375623619,"bintec elmeg","Configuration",,
+1483097076,"SyncThru Web Service (Printers)",,,
+1169183049,"BoaServer",,"Server: Boa",
+1051648103,"Securepoint","Securepoint UTM v11 - Admin Interface",,"https://www.securepoint.de"
+-438482901,"Moodle",,,"https://moodle.org"
+-1492966240,"RADIX","RADIX – Alrit",,
+1466912879,"CradlePoint Technology (Router)","Login :: MBR95","O=CradlePoint Technology",
+-167656799,"Drupal",,,
+-1593651747,"Blackboard","Blackboard Learn","O=Blackboard Inc,",
+-895963602,"Jupyter Notebook",,,
+-972810761,"HostMonster - Web hosting","HostMonster - Web hosting",,
+1703788174,"D-Link (router/network)",,,
+225632504,"Rocket Chat",,,
+-1702393021,"mofinetwork","MOFI4500 – LuCI",,
+892542951,"Zabbix","Zabbix server: Zabbix",,
+547474373,"TOTOLINK (network)",,,
+-374235895,"Ossia (Provision SR) | Webcam/IP Camera",,,
+1544230796,"cPanel Login",,,
+517158172,"D-Link (router/network)",,,
+462223993,"Jeedom (home automation)",,,"https://github.com/jeedom"
+937999361,"JBoss Application Server 7",,,
+1991562061,"Niagara Web Server / Tridium","Login",,
+812385209,"Solarwinds Serv-U FTP Server",,"Server: Serv-U","https://www.solarwinds.com/serv-u-managed-file-transfer-server"
+1142227528,"Aruba (Virtual Controller)",,,"https://www.arubanetworks.com/techdocs/ArubaOS_63_Web_Help/Content/ArubaFrameStyles/Defaults/Default_Open_Ports.htm"
+-1153950306,"Dell",,,
+72005642,"RemObjects SDK / Remoting SDK for .NET HTTP Server Microsoft",,,"remobjects.com"
+-484708885,"Zyxel ZyWALL",,,
+706602230,"VisualSVN Server","VisualSVN Server","WWW-Authenticate: Basic realm=""VisualSVN Server""",
+-656811182,"Jboss","Welcome to Jboss",,
+-332324409,"STARFACE VoIP Software","STARFACE VoIP Software",,"https://www.starface.com/"
+-594256627,"Netis (network devices)",,"Server: Virtual Web 0.9","http://www.netis-systems.com"
+-649378830,"WHM","WHM",,
+97604680,"Tandberg",,"Set-Cookie: tandberg_login",
+-1015932800,"Ghost (CMS)",,,"https://ghost.org/"
+-194439630,"Avtech IP Surveillance (Camera)","Remote Surveillance, Any time & Any where","Avtech/1.0",
+129457226,"Liferay Portal",,"Liferay-Portal: Liferay",
+-771764544,"Parallels Plesk Panel",,,
+-617743584,"Odoo","Homepage | My Website",,"https://www.odoo.com/"
+77044418,"Polycom","'+sysName+' - Polycom '+GetCurrentPageName ()+'",,
+980692677,"Cake PHP",,,
+476213314,"Exacq","Index",,"https://exacq.com/index.php"
+794809961,"CheckPoint","Check Point SSL Network Extender","Server: Check Point SVN foundation",
+1157789622,"Ubiquiti UNMS","Ubiquiti UNMS",,
+1244636413,"cPanel Login",,,
+1985721423,"WorldClient for Mdaemon","WorldClient",,"https://www.altn.com/Worldclient-Private-Email/"
+-1124868062,"Netport Software (DSL)",,"Server: NetPort Software 1.1",
+-335242539,"f5 Big IP","BIG-IP&reg","- Redirect",
+2146763496,"Mailcow","mailcow UI",,"https://mailcow.email/"
+-1041180225,"QNAP NAS Virtualization Station","Virtualization Station",,
+-1319025408,"Netgear","401 Unauthorized",,
+917966895,"Gogs",,,"https://gogs.io/"
+512590457,"Trendnet IP camera","index",,
+1678170702,"Asustor","Ready to Serve!","O=Asustor","https://www.asustor.com/en/"
+-1466785234,"Dahua","WEB SERVICE",,"example plugin: 00de82e5df8e744c54fe1df2ce395df752486bcd  NetPlug.exe"
+-505448917,"Discuz!","Powered by Discuz!",,
+255892555,"wdCP cloud host management system",,,
+1627330242,"Joomla",,,
+-1935525788,"SmarterMail","SmarterMail",,
+-12700016,"Seafile","Log In - Private Seafile",,"https://www.seafile.com/en/home/"
+1770799630,"bintec elmeg",,,
+-137295400,"NETGEAR ReadyNAS","NETGEAR ReadyNAS",,
+-195508437,"iPECS",,,"https://www.ipecs.com/"
+-2116540786,"bet365",,,"https://www.bet365.com/"
+-38705358,"Reolink","Reolink",,"https://reolink.com/software-and-manual/"
+-450254253,"idera","Server Backup Manager SE",,
+-1630354993,"Proofpoint","Proofpoint Protection Server","Set-Cookie: pps_magic",
+-1678298769,"Kerio Connect WebMail","Kerio Connect WebMail",,
+-35107086,"WorldClient for Mdaemon","WorldClient",,
+2055322029,"Realtek",,,
+-692947551,"Ruijie Networks (Login)","锐捷网络-EWEB网管系统",,
+-1710631084,"Askey Cable Modem","Cable Modem","CN=Askey Cable Modem Root Certificate Authority",
+89321398,"Askey Cable Modem","Residential Gateway Login",,
+90066852,"JAWS Web Server (IP Camera)",,"Server: JAWS/1.0",
+768231242,"JAWS Web Server (IP Camera)",,"Server: JAWS/1.0",
+-421986013,"Homegrown Website Hosting","Homegrown Website Hosting | Fast, Reliable Web Hosting",,"https://asmallorange.com"
+156312019,"Technicolor / Thomson Speedtouch (Network / ADSL)","SpeedTouch – Home","WWW-Authenticate: Digest realm=""SpeedTouch""",
+-560297467,"DVR (Korean)",,,
+-1950415971,"Joomla",,"X-Content-Powered-By: K2 v2.9.0 (by JoomlaWorks)",
+1842351293,"TP-LINK (Network Device)","300Mbps Wireless N ADSL2+ Modem Router TD-W8960N",,
+1433417005,"Salesforce","Login | Salesforce",,
+-632070065,"Apache Haus","Apache Haus Distribution Installation Test ",,"https://www.apachehaus.com/"
+1103599349,"Untangle","Untangle Administrator Login","O=Untangle","https://wiki.untangle.com/index.php/Main_Page"
+224536051,"Shenzhen coship electronics co.,ltd","Login",,"seen only in Telmex Colombia S.A. org"
+1038500535,"D-Link (router/network)","Login",,
+-355305208,"D-Link (camera)",,"WWW-Authenticate: Digest realm=""DCS",
+-267431135,"Kibana","Kibana","kbn-name: kibana",
+-759754862,"Kibana","Kibana","kbn-name: kibana",
+-1200737715,"Kibana","Kibana","kbn-name: kibana",
+75230260,"Kibana","Kibana 4","X-App-Name: kibana",
+1668183286,"Kibana","Kibana 3",,
+283740897,"Intelbras SA","Intelbras","Server: Http Server",
+1424295654,"Icecast Streaming Media Server","Icecast Streaming Media Server","Server: Icecast","https://icecast.org/"
+1922032523,"NEC WebPro","WebPro","Server: Henry/1.1",
+-1654229048,"Vivotek (Camera)",,"Server: VVTK-HTTP-Server | O=Vivotek.Inc,",
+-1414475558,"Microsoft IIS",,"Server: Microsoft-IIS",
+-1697334194,"Univention Portal",,"(Univention)","https://www.univention.com"
+-1424036600,"Portainer (Docker Management)",,,"https://www.portainer.io/"
+-1096644865,"(Blank) ewomail","ewomail.com-邮箱管理后台",,"www.ewomail.com"
+-831826827,"NOS Router","Consola de gestão do Router Wi-Fi",,"https://www.nos.pt"
+-759108386,"Tongda",,,"www.tongda.com"
+-1022206565,"CrushFTP","CrushFTP WebInterface",,"https://www.crushftp.com/crush8wiki/Wiki.jsp?page=WebInterface"
+-1225484776,"Endian Firewall","401 Authorization Required",,"/manage/dashboard"
+-631002664,"Kerio Control Firewall",,"Server: Kerio Control Embedded Web Server","https://www.gfi.com/products-and-solutions/network-security-solutions/kerio-control"
+2072198544,"Ferozo Panel","Panel de control de hosting",,
+-466504476,"Kerio Control Firewall",,"Server: Kerio Control Embedded Web Server","https://www.gfi.com/products-and-solutions/network-security-solutions/kerio-control"
+1251810433,"Cafe24 (Korea)","카페24 쇼핑몰 :: 창업자의 꿈이 시작되는 곳","CN=*.cafe24.com","cafe24 is a global e-commerce platform, and has 8 sites around the world including the United States, China, Japan, the Philippines, and Taiwan"
+1273982002,"Mautic (Open Source Marketing Automation)","Mautic",,"https://www.mautic.org/"
+-978656757,"NETIASPOT (Network)","Konsola zarządzania NETIASPOT",,"internet access device and television services offered by Netia |  telecoms company which owns the second-largest fixed-line network in Poland"
+916642917,"Multilaser","Multilaser | Login",,"Multilaser is an electronics company based in Brazil"
+575613323,"Canvas LMS (Learning Management)",,"X-A11y-Ally: Dana Danger Grey",
+1726027799,"IBM Server",,,
+-587741716,"ADB Broadband S.p.A. (Network)","Residential Gateway - ADB Italia","Server: ADB Broadband HTTP Server",
+-360566773,"ARRIS (Network)","ARRIS",,
+-884776764,"Huawei (Network)",,,
+929825723,"WAMPSERVER","WAMPSERVER Homepage",,"Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language"
+240136437,"Seagate Technology (NAS)",,,
+1911253822,"UPC Ceska Republica (Network)",,"Set-Cookie: name=Session","UPC Ceska Republica is an internet service provider which operates in Czech Republic."
+-393788031,"Flussonic (Video Streaming)","Flussonic Admin UI","Server: Flussonic","https://flussonic.com/en-us/"
+366524387,"Joomla",,,
+443944613,"WAMPSERVER","WAMPSERVER Homepage",,"Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language"
+1953726032,"Metabase","Metabase",,"https://www.metabase.com/docs/latest/ (open source Business Intelligence server)"
+-2031183903,"D-Link (Network)",,,"primarily observed in Russia"
+545827989,"MobileIron","MobileIron System Manager: Sign In",,
+967636089,"MobileIron","MobileIron System Manager: Sign In",,
+362091310,"MobileIron","MobileIron System Manager: Sign In",,
+2086228042,"MobileIron","Sign In to MobileIron Cloud",,
+-1588746893,"CommuniGate","CommuniGate Pro Setup","Server: CommuniGatePro","Email Server"
+1427976651,"ZTE (Network)",,"Server: Mini web server 1.0 ZTE corp",
+1648531157,"InfiNet Wireless | WANFleX (Network)",,"Server: WANFleX HTTP Daemon v2.0 | O=InfiNet Wireless","https://trademarks.justia.com/771/55/wanflex-77155234.html"
+938616453,"Mersive Solstice",,"Server: Solstice 2.0","https://www.mersive.com/products/solstice/"
+1632780968,"Université Toulouse 1 Capitole",,,"univ-tlse1.fr"
+2068154487,"Digium (Switchvox)",,,"https://www.digium.com/products/business-phone-systems"
+-1788112745,"PowerMTA monitoring","PowerMTA monitoring",,"port25 solutions"
+-644617577,"SmartLAN/G","SmartLAN/G Web Interface",,
+-1822098181,"Checkpoint (Gaia)","Gaia","Server: CPWS","https://sc1.checkpoint.com/documents/R76/CP_R76_Gaia_WebAdmin/73102.htm"
+-1131689409,"УТМ (Federal Service for Alcohol Market Regulation | Russia)","УТМ",,
+2127152956,"MailWizz","MailWizz | Welcome",,"https://www.mailwizz.com/"
+1064742722,"RabbitMQ","RabbitMQ Management",,"RabbitMQ is an open-source message-broker software"
+-693082538,"openmediavault (NAS)","openmediavault control panel",,"https://www.openmediavault.org/"
+1941381095,"openWRT Luci","Openwrt – LuCI",,
+903086190,"Honeywell","WEB SERVICE",,
+829321644,"BOMGAR Support Portal","Remote Support Portal | Powered by BOMGAR",,
+-1442789563,"Nuxt JS",,,
+-2140379067,"RoundCube Webmail","RoundCube Webmail :: Welcome to RoundCube Webmail","Set-Cookie: roundcube_sessid",
+-1897829998,"D-Link (camera)",,"Server: alphapd",
+1047213685,"Netgear (Network)",,,
+1485257654,"SonarQube","SonarQube",,"SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality"
+-299324825,"Lupus Electronics XT","Welcome","O=LUPUS Electronics GmbH","https://www.lupus-electronics.de/en/lupus-xt-model-series/overview/"
+-1162730477,"Vanderbilt SPC","SPC4300","O=Vanderbilt International Ireland Ltd OU=Security Products CN=SPC","https://vanderbiltindustries.com/spc"
+-1268095485,"VZPP Plesk","VZPP Plesk - Log in to Plesk ",,
+1118684072,"Baidu",,,
+-1616115760,"ownCloud","ownCloud",,
+-2054889066,"Sentora","Control Panel – Login",,"http://www.sentora.org/ | Open Source Web Panel"
+1333537166,"Alfresco",,"O=Alfresco Software Ltd.","https://www.alfresco.com/"
+-373674173,"Digital Keystone (DK)","MDU MOCUR","Server: DOTS 2.0 UPnP/1.0 MDU MOCUR","http://www.digitalkeystone.com/"
+-106646451,"WISPR (Airlan)","401 Authorization Required","WWW-Authenticate: Basic realm=""WISPR"" | Server: WISPR",
+1235070469,"Synology VPN Plus","VPN Plus",,"https://www.synology.com/en-us/srm/feature/vpn_plus"
+2063428236,"Sentry","Login | Sentry",,"https://sentry.io/"
+15831193,"WatchGuard","WatchGuard Access Portal","Set-Cookie: wg_portald_session_id | O=WatchGuard","https://www.watchguard.com/"
+-956471263,"Web Client Pro","Web Client Pro","WebClientPro.cab",
+-1452159623,"Tecvoz",,,"https://www.tecvoz.com.br/"
+99432374,"MDaemon Remote Administration","MDaemon Remote Administration",,"MDaemon Technologies, Ltd. "
+727253975,"Paradox IP Module","Paradox IP Module",,"https://www.paradox.com/Products/"
+-630493013,"DokuWiki",,"Set-Cookie: DokuWiki","https://www.dokuwiki.org/dokuwiki"
+552597979,"Sails","New Sails App","X-Powered-By: Sails <sailsjs.com>",
+774252049,"FastPanel Hosting","302 Found",,"https://fastpanel.direct/"
+-329747115,"C-Lodop","Welcome to C-Lodop",,"The Cloud Web Service System for Lodop HTML Print"
+1262005940,"Jamf Pro Login","Jamf Pro Login",,
+979634648,"StruxureWare (Schneider Electric)","StruxureWare",,
+475379699,"Axcient Replibit Management Server","Replibit Management Server",,"https://support.efolder.net/hc/en-us/categories/115000502027-Axcient-Replibit"
+-878891718,"Twonky Server (Media Streaming)","Twonky Server","Twonky UPnP SDK","https://twonky.com/ | TwonkyMedia server is DLNA-compliant UPnP AV server software"
+-2125083197,"Windows Azure","Page not found","Server: Windows-Azure-Blob/1.0",
+-1151675028,"ISP Manager (Web Hosting Panel)","Authorization",,"https://www.ispsystem.com/"
+1248917303,"JupyterHub","JupyterHub","X-jupyterhub-version","https://jupyterhub.readthedocs.io/en/stable/"
+-1908556829,"CenturyLink Modem GUI Login (eg: Technicolor)","Advanced Setup - Security - Admin User Name &amp"," Password","Set-Cookie: CLINK_SESSION_ID"
+1059329877,"Tecvoz",,,"https://www.tecvoz.com.br/"
+-1148190371,"OPNsense","Login","Server: OPNsense","https://opnsense.org/"
+1467395679,"Ligowave (network)",,"O=LigoWave LLC","https://www.ligowave.com/"
+-1528414776,"Rumpus","Web File Manager","Server: Rumpus","https://www.maxum.com/Rumpus/"
+-2117390767,"Spiceworks (panel)","Spiceworks","Set-Cookie: spiceworks_session=","“Network management made simple"" | https://www.spiceworks.com/about/"
+-1944119648,"TeamCity","Log in to TeamCity &mdash"," TeamCity","TeamCity-Node-Id:"
+-1748763891,"INSTAR Full-HD IP-Camera","INSTAR Full-HD IP-Camera","Server: Ipcam","https://www.instar.de/"
+251106693,"GPON Home Gateway",,,
+-1779611449,"Alienvault",,,
+-1745552996,"Arbor Networks",,,
+-1275148624,"Accrisoft","Accrisoft",,"accrisoft.com"
+-178685903,"Yasni",,,"Yasni.de"
+-43161126,"Slack",,,
+671221099,"innovaphone","innovaphone",,"https://www.innovaphone.com/"
+-10974981,"Shinobi (CCTV)","Shinobi",,"https://shinobi.video/"
+1274078387,"TP-LINK (Network Device)",,,
+-336242473,"Siemens OZW772",,"Server: Siemens Switzerland Ltd.","https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10743818"
+882208493,"Lantronix (Spider)","Spider Authentication","O=Lantronix","https://www.lantronix.com/products/lantronix-spider/"
+-687783882,"ClaimTime (Ramsell Public Health & Safety)","ClaimTime",,
+-590892202,"Surfilter SSL VPN Portal","Surfilter SSL VPN Portal",,
+-50306417,"Kyocera (Printer)",,"Server: KM-MFP-http",
+784872924,"Lucee!","Rapid web development with Lucee!",,
+1135165421,"Ricoh",,,
+926501571,"Handle Proxy","Handle Proxy",,"http://proxy.handle.net/"
+579239725,"Metasploit","Metasploit - Setup and Configuration",,
+-689902428,"iomega NAS",,"""Set-Cookie: iomega=""",
+-600508822,"iomega NAS",,"""Set-Cookie: iomega=""",
+656868270,"iomega NAS",,"""Set-Cookie: iomega=""",
+-2056503929,"iomega NAS",,"""Set-Cookie: iomega=""",
+-1656695885,"iomega NAS",,"""Set-Cookie: iomega=""",
+331870709,"iomega NAS",,"""Set-Cookie: iomega=""",
+1241049726,"iomega NAS",,"""Set-Cookie: iomega=""",
+998138196,"iomega NAS",,"""Set-Cookie: iomega=""",
+322531336,"iomega NAS",,"""Set-Cookie: iomega=""",
+-401934945,"iomega NAS",,"""Set-Cookie: iomega=""",
+-613216179,"iomega NAS",,"""Set-Cookie: iomega=""",
+-276759139,"Chef Automate","Chef Automate",,"https://www.chef.io/products/automate/"
+1862132268,"Gargoyle Router Management Utility","Gargoyle Router Management Utility","X-Clacks-Overhead: GNU Terry Pratchett",
+-1738727418,"KeepItSafe Management Console","KeepItSafe Management Console",,
+-368490461,"Entronix Energy Management Platform","Login | Entronix Energy Management Platform",,"https://entronix.io/index.php/general/"
+1836828108,"OpenProject","OpenProject",,"OpenProject is a web-based project management system for location-independent team collaboration. | https://www.openproject.org"
+-1775553655,"Unified Management Console (Polycom)","Unified Management Console","X-Powered-By: RealPresence Resource Platform",
+381100274,"Moxapass ioLogik Remote Ethernet I/O Server ","Remote Ethernet I/O Server","Set-Cookie: MoxaPass | ioLogik Web Server/1.0","moxa.com"
+2124459909,"HFS (HTTP File Server)","HFS /","Server: HFS 2.3m |  Set-Cookie: HFS_SID","https://www.rejetto.com/hfs/"
+731374291,"HFS (HTTP File Server)","HFS /","Server: HFS 2.3m |  Set-Cookie: HFS_SID","https://www.rejetto.com/hfs/"
+-335153896,"Traccar GPS tracking","Traccar",,"https://www.traccar.org/"
+896412703,"IW",,"Set-Cookie: IW_",
+191654058,"Wordpress Under Construction Icon",,,
+-342262483,"Combivox","Combivox",,
+5542029,"NetComWireless (Network)","Login",,
+1552860581,"Elastic (Database)",,"Elastic Indices:",
+1174841451,"Drupal",,,
+-1093172228,"truVision (NVR)",,"Server: DNVRS-Webs",
+-1688698891,"SpamExperts","SpamExperts",,
+-1546574541,"Sonatype Nexus Repository Manager","Nexus Repository Manager","Server: Nexus/3.17.0-01 (OSS)",
+-256828986,"iDirect Canada (Network Management)","SatManage::Login",,
+1966198264,"OpenERP (now known as Odoo)","OpenERP",,"Odoo is an all-in-one business software including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse - and project management, and inventory"
+2099342476,"PKP (OpenJournalSystems) Public Knowledge Project",,,"https://pkp.sfu.ca/ojs/"
+541087742,"LiquidFiles",,,"https://www.liquidfiles.com/"
+-882760066,"ZyXEL (Network)","ZyXEL KEENETIC",,"https://keenetic.com/en/products"
+16202868,"Universal Devices (UD)",,"EXT: UCoS, UPnP/1.0, UDI/1.0 | O=""Universal Devices, Inc.""","https://www.universal-devices.com/"
+987967490,"Huawei (Network)",,"O=Huawei",
+-647318973,"gm77[.]com",,,
+-1583478052,"Okazik[.]pl",,,
+1969970750,"Gitea",,"Set-Cookie: i_like_gitea","https://gitea.io/en-us/"
+-1734573358,"TC-Group","TC-Group – LuCI",,
+-1589842876,"Deluge Web UI","Deluge: Web UI 1.3.15",,"https://deluge.readthedocs.io/en/latest/index.html"
+1822002133,"登录 – AMH","登录 – AMH",,
+-2006308185,"OTRS (Open Ticket Request System)","Login – OTRS","X-Powered-By: OTRS","OTRS is a service management suite that comprises ticketing, workflow automation and notification"
+-1702769256,"Bosch Security Systems (Camera)",,"Server: VCS-VideoJet-Webserver | CN=local.myboschcam.net","e.g. flexidome"
+321591353,"Node-RED","Node-RED",,"Node-RED is a flow-based development tool for visual programming developed originally by IBM"
+-923693877,"motionEye (camera)",,"Server: motionEye","https://github.com/ccrisan/motioneye/wiki"
+-1547576879,"Saia Burgess Controls – PCD","Saia PCD Web-Server",,
+1479202414,"Arcadyan o2 box (Network)","o2.box","Server: Arcadyan httpd | O=Arcadyan",
+1081719753,"D-Link (Network)","Residential Gateway – D-Link",,
+-166151761,"Abilis (Network/Automation)",,"CN=Abilis-CPX-SSL-Server","http://www.abilis.net/ | primarily observed in ASN: Ambrogio s.r.l. (AS197954)"
+-1231681737,"Ghost (CMS)",,,"https://ghost.org/"
+321909464,"Airwatch",,"/AirWatch/default.aspx",
+-1153873472,"Airwatch",,"/AirWatch/default.aspx",
+1095915848,"Airwatch",,"/AirWatch/default.aspx",
+788771792,"Airwatch",,"/AirWatch/default.aspx",
+-1863663974,"Airwatch",,"/AirWatch/default.aspx",
+-1267819858,"KeyHelp (Keyweb AG)",,"X-Powered-By: KeyHelp","https://www.keyhelp.de/en/"
+726817668,"KeyHelp (Keyweb AG)",,"X-Powered-By: KeyHelp","https://www.keyhelp.de/en/"
+-1474875778,"GLPI","GLPI – Autenticazione","Set-Cookie: glpi","https://glpi-project.org/ GLPI is a free IT Asset Management, issue tracking system and service desk system."
+5471989,"Netcom Technology","网康科技·互联网控制网关",,"Netcom Technology"
+-1457536113,"CradlePoint",,"Server: CradlepointHTTPService","https://cradlepoint.com/"
+-736276076,"MyASP","MyASP（マイスピー） ",,"all in Japan"
+-1343070146,"Intelbras SA",,"Server: Xavante 2.2.0 embeded",
+538585915,"Lenel",,"O=Lenel","https://www.lenel.com/solutions"
+-625364318,"OkoFEN Pellematic","&Ouml","koFEN Pellematic",
+1117165781,"SimpleHelp (Remote Support)","Welcome to SimpleHelp",,"https://simple-help.com/"
+-1067420240,"GraphQL","GraphQL Playground",,"https://electronjs.org/apps/graphql-playground"
+1821549811,"(Blank) iSpy",,"Server: iSpy","https://github.com/ispysoftware/iSpy"
+-1465479343,"DNN (CMS)",,,"https://www.dnnsoftware.com/"
+1232159009,"Apple",,,
+1382324298,"Apple",,,
+-1498185948,"Apple",,,
+483383992,"ISPConfig","ISPConfig",,
+-1249852061,"Microsoft Outlook",,,
+1157181149,"?","木瓜视频官方网站",,
+-2051649833,"?",,,
+116323821,"?",,,
+490244855,"?","Login Dashboard",,
+-1101754425,"?",,,
+-47597126,"?",,,
+-206623908,"?",,,
+999357577,"? (Possibly DVR)",,,
+-386189083,"?",,,
+1127621346,"?",,,
+1632680057,"?","LiveConfig – Login",,
+492290497,"? (Possible IP Camera)",,,
+-1457323588,"?","404 Not Found",,
+1653394551,"?","WEB SERVICE",,
+1182229825,"?",,,
+-234896770,"?",,,
+-1472641661,"?","Bad Request",,
+1918884058,"?","Bad Request",,
+130131457,"?",,,
+110768013,"?",,"Server: Boa/0.94.14rc21",
+1109114727,"?",,"HTTP/1.1 404 Not Found",
+-405780529,"?",,"Server: Virata-EmWeb/R6_0_1",
+-1166284431,"?","Bad Request",,
+-1309951014,"?",,,
+499417227,"?",,,
+-2063807194,"?",,,
+1165838194,"?",,,
+1446401848,"?",,,
+1732654699,"?","Bad Request","nginx/1.16.0-upupw",
+-1987375206,"?",,,
+-526552280,"?",,,
+-709611873,"?","Bad Request",,
+-1593512546,"?",,,
+-927923449,"?",,,
+-2067519629,"?",,,
+-659140727,"?","Bad Request",,
+1914658187,"?",,,
+-1060318941,"?",,"Server: HTTPD",
+483277933,"?",,,
+1578525679,"?",,"Server: Resin",
+-1252041730,"?",,,
+1223557693,"?",,,
+2107438913,"?",,,
+984279902,"?",,,
+-2144075010,"?","Espansione IP Vedo",,
+1917028407,"?",,,
+441475721,"?",,,
+1782913455,"?",,,
+-785381255,"?",,,
+-1134712852,"?",,,
+-2098842484,"?",,,"seen only on globalfrag networks"
+-554365658,"?",,,
+891145488,"?",,,
+1023924156,"?",,,
+1172440114,"?",,,
+-1699012080,"?",,,
+400100893,"? (DVR)",,,"example plugin: be35bc4df60909fc42d2ee2eb9a7c5d726b32341  WebClient_VPPlugin.exe (Chipspoint Electronics Co., Ltd)"
+-1645439195,"?",,,
+1486876794,"?",,,
+1235613725,"?","&#65279&#35947&#28216&#26827&#29260&#13",,
+-926883833,"?","网站长标题",,
+1217458389,"?","Bad Request",,
+-337520637,"?",,,
+-886176738,"?",,,
+305967937,"?",,,
+827830640,"?",,,
+-1319784906,"?",,"X-Powered-By: WAF/2.0","all appear in AS32097 (Wholesale Internet)"
+1763964280,"?",,"Set-Cookie: _d_id",
+-1960812053,"?",,,
+606008215,"?",,"?",
+1234113799,"?","Bad Request",,
+73066977,"(Blank)",,,
+1370833863,"(Blank)",,,
+-1779876810,"(Blank)",,,
+-452641300,"(Blank)",,,
+-725636930,"(Blank)",,,
+97040601,"(Blank)",,,
+294536354,"(Blank)","安全入口校验失败",,
+639408214,"(Blank) (paiza.cloud)",,"__proxy_error__/497.html (paiza.cloud)",
+-471602503,"(Blank)",,,
+-933661998,"(Blank)",,"Server: Kestrel",
+509258457,"(Blank)",,,
+-838664871,"(Blank)",,,
+-1662783523,"(Blank)",,,
+1274734426,"(Blank)",,,
+-488620570,"(Blank)",,,
+-1993690156,"(Blank)",,,
+-1361277238,"(Blank)",,,
+-1132923558,"(Blank)",,,
+2122595294,"(Blank)",,,
+1747323616,"(Blank)",,,
+-1856090503,"(Blank)",,,
+-2088429648,"(Blank)",,,
+1870317857,"(Blank)",,"Server: IPWEBS/1.4.0",
+-1206367560,"(Blank)",,,
+-1783340557,"(Blank)",,,
+149479534,"(Blank)",,,
+1417317318,"(Blank)",,,
+1694507817,"(Blank)",,,
+1391058259,"(Blank)",,,
+-1270699277,"(Blank)",,,
+529136617,"(Blank)",,,
+-212761746,"(Blank)",,,
+1771297009,"(Blank)",,,

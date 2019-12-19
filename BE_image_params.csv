@@ -1,0 +1,24 @@
+"Search Parameter","Type","Available Tags / Parameters","More Info"
+"as_name","string",,
+"asn","int",,
+"created_at","date",,"ts:year-month-day
+ts:[year-month-day TO year-month-day]"
+"country","string",,"ISO2 Country Codes"
+"ip","string",,"IP address or CIDR (in quotes)"
+"ipv6","boolean",,
+"geoip.city_name","string",,
+"geoip.country_name","string",,
+"port","int",,
+"protocol","string",,"TCP or UDP"
+"has_faces","boolean",,
+"height","int",,"image height"
+"rdns","string",,
+"rdns_parent","string",,
+"tags","string","HAS_FACES
+MOBILE
+RDP
+VNC
+WINDOWS
+X11",
+"width","int",,"image width"
+"words","string",,"text found by OCR"

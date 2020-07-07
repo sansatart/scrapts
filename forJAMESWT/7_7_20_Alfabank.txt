@@ -1,0 +1,70 @@
+Reference Tweet: https://twitter.com/ReBensk/status/1280554510008627201
+File Name Альфа-Банк.apk
+Size 1.76MB
+MD5 ffb92e6ef2fed5fbb2632b0629538f5e
+SHA1 5816f56a57bf22cd77815bf43dccdf30ede0b134
+SHA256 c74e30ab2abb6854fa1588d4c4fb30ce74b0968f3a9de8a79978766b78bd6f8b
+
+App Name alfabank
+Package Name mwotawhgamuaarckmynghbggzco.wjhahifdonbid.urapqeatshdynb
+Main Activity pwgmdgqdkhcjumuowtz.ssrfcjhnnemhmie.nyjedctsw.feq
+Target SDK 29 Min SDK 15 Max SDK
+Android Version Name 1.0 Android Version Code 1 
+
+data/data/mwotawhgamuaarckmynghbggzco.wjhahifdonbid.urapqeatshdynb/shared_prefs/settings.xml:
+
+"urlAdminPanel">hxxp://Bestreadpromto[.]com</string>
+"idbot">jyaf5b0kndm8xuxde
+"key">xJSiE8hxwlXRC
+
+pDNS pivot: 8.208.10[.]148
+
+*[.]kpname3647589[.]gq
+kpname3647589[.]gq
+*[.]kpname3647589reed[.]cf
+kpname3647589reed[.]cf
+mouseinbox[.]top
+*[.]online-beobank[.]com
+*[.]www-beobank[.]com
+www[.]www-beobank[.]com
+www[.]online-beobank[.]com
+www[.]beobank-be[.]com
+online-beobank[.]com
+nuwerken[.]info
+www-beobank[.]com
+beobank-be[.]com
+*[.]365online-review-payment[.]com
+*[.]credit-agricole-securite[.]com
+creditagricole-securite[.]com
+*[.]aib-fraudalert[.]com
+www[.]credit-agricole-securite[.]com
+www[.]aib-fraudalert[.]com
+www[.]365online-review-payment[.]com
+credit-agricole-securite[.]com
+365online-review-payment[.]com
+aib-fraudalert[.]com
+*[.]ebankieren-be[.]com
+ing[.]ebankieren-be[.]com
+www[.]ebankieren-be[.]com
+ebankieren-be[.]com
+*[.]aib-reviewcharge[.]com
+aib-reviewcharge[.]com
+lsd[.]money
+kpname3647589[.]ga
+bestreadpreto[.]com
+kpname3647589[.]cf
+*[.]carabusmas[.]com
+www[.]carabusmas[.]com
+*[.]newbalancedshoes[.]top
+*[.]jogmaster[.]top
+jogmaster[.]top
+www[.]jogmaster[.]top
+www[.]peoplemachine[.]top
+www[.]newbalancedshoes[.]top
+carabusmas[.]com
+hpnametreiding[.]xyz
+bestreadpromto[.]com
+peoplemachine[.]top
+newbalancedshoes[.]top
+hpnametreiding[.]club
+hpnametreiding1[.]xyz

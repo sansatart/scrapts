@@ -1,0 +1,151 @@
+Hashes:
+hxxps[:]//pandemidestekbirimi[.]net/ (Source URL)
+"5ab60cb12f5e148d6c9cdb2bfe4c3baf09ce004beda906888db442aa90a4c0cd"
+
+https[:]//cdn.discordapp[.]com/attachments/716448556726353981/726082052922933248/EvdeKal-20GB.apk (Source URL)
+"f31d64f6ed911c90fefe3ff3e005db081e2fb208a80869a830dd774067b1c57e"
+
+http[:]//flashplayerdown[.]com/FlashPlayer.apk (Source URL)
+82f08e317522c69b342c7f841837a6c3d0a2c268deecacdb33093852d352d4dd
+
+
+C2:
+hxxp://ktosdelaetskrintotpidor[.]com (91.195.240[.]13)
+  (82f08e317522c69b342c7f841837a6c3d0a2c268deecacdb33093852d352d4dd)
+hxxp://sositehuypidarasi[.]com (91.195.240[.]126)
+  (82f08e317522c69b342c7f841837a6c3d0a2c268deecacdb33093852d352d4dd)
+hxxp://slickdiscs[.]com (8.210.25[.]65)
+  (f31d64f6ed911c90fefe3ff3e005db081e2fb208a80869a830dd774067b1c57e)
+hxxp://lahanapancardomateshiyar[.]site (Current: 84.38.181[.]95 | Previous: 8.208.81[.]144)
+  (5ab60cb12f5e148d6c9cdb2bfe4c3baf09ce004beda906888db442aa90a4c0cd)
+  
+pDNS pivots:
+
+8.210.25[.]65
+  slickdiscs[.]com
+  bestdomainever[.]top
+  bringmethetruth[.]com
+  cleanclear[.]top
+  bangtwice[.]top
+  pickahero[.]top
+  www[.]pickahero[.]top
+  www[.]cleanclear[.]top
+  www[.]bangtwice[.]top
+  *[.]pickahero[.]top
+  *[.]bangtwice[.]top
+
+84.38.181[.]95
+  odryreo[.]site
+  kamuranipisapa12[.]site
+  lahanapancardomateshiyar[.]site
+  tax261[.]com
+  tax260[.]com
+  pay-security64[.]com
+  pay-security60[.]com
+  pay-security61[.]com
+  pay-security63[.]com
+  pay-security62[.]com
+  www[.]pay-security60[.]com
+  www[.]pay-security62[.]com
+  www[.]pay-security63[.]com
+  www[.]pay-security64[.]com
+  www[.]pay-security61[.]com
+  *[.]pay-security60[.]com
+  *[.]pay-security64[.]com
+  *[.]pay-security61[.]com
+  *[.]pay-security63[.]com
+  tax262[.]com
+  my3-billid230[.]com
+  *[.]my3-billid230[.]com
+  my3-billid232[.]com
+  www[.]my3-billid232[.]com
+  www[.]tax260[.]com
+  www[.]tax262[.]com
+  www[.]tax261[.]com
+  www[.]tax263[.]com
+  www[.]my3-billid230[.]com
+  www[.]my3-billid231[.]com
+  tax263[.]com
+  my3-billid231[.]com
+  *[.]tax263[.]com
+  *[.]tax260[.]com
+  pay-security51[.]com
+  pay-security53[.]com
+  pay-security52[.]com
+  www[.]pay-security52[.]com
+  www[.]pay-security55[.]com
+  www[.]pay-security53[.]com
+  www[.]pay-security51[.]com
+  www[.]pay-security54[.]com
+  pay-security55[.]com
+  pay-security50[.]com
+  pay-security54[.]com
+  *[.]tax261[.]com
+  *[.]my3-billid232[.]com
+  *[.]my3-billid231[.]com
+  *[.]tax262[.]com
+  *[.]pay-security55[.]com
+  *[.]pay-security52[.]com
+  *[.]pay-security51[.]com
+  *[.]pay-security54[.]com
+  *[.]pay-security50[.]com
+  *[.]pay-security53[.]com
+  pay-security42[.]com
+  payment-id334[.]com
+  h-m-r-c284[.]net
+  h-m-r-c283[.]net
+  h-m-r-c282[.]net
+  h-m-r-c281[.]net
+  h-m-r-c280[.]net
+
+8.208.81[.]144
+  tinopery[.]top
+  stambuland6[.]site
+  *[.]buland5[.]site
+  odricatt[.]live
+  *[.]odryreo[.]site
+  www[.]buland5[.]site
+  buland5[.]site
+  www[.]odryreo[.]site
+  bulan337[.]site
+  tambuland7[.]live
+  *[.]stambuland7[.]live
+  www[.]stambuland7[.]live
+  stambuland7[.]live
+  *[.]stambuland017[.]live
+  stambuland017[.]live
+  *[.]dominostanbul12[.]site
+  dominostanbul12[.]site
+  *[.]devokerizo12[.]site
+  www[.]parkinasyone[.]site
+  devokerizo12[.]site
+  parkinasyone[.]site
+  *[.]tartarorder23[.]site
+  tartarorder23[.]site
+  www[.]demorasia34[.]site
+  demorasia34[.]site
+  *[.]erkeginorospusu12[.]site
+  erkeginorospusu12[.]site
+  dekoraplicasion312[.]site
+  *[.]karpuzkirazkavun[.]site
+  karpuzkirazkavun[.]site
+  *[.]pakizetarcin12[.]site
+  www[.]pakizetarcin12[.]site
+  pakizetarcin12[.]site
+  *[.]domatescoin[.]live
+  domatescoin[.]live
+  *[.]pirimanabc11[.]site
+  www[.]pirimanabc11[.]site
+  pirimanabc11[.]site
+  *[.]mzkletriasa01[.]site
+  www[.]mzkletriasa01[.]site
+  mzkletriasa01[.]site
+  *[.]kelimtrack0912[.]site
+  kelimtrack0912[.]site
+  *[.]redburntrack[.]site
+  redburntrack[.]site
+  www[.]redburntrack[.]site
+  www[.]lahanapancardomateshiyar[.]site
+  *[.]lahanapancardomateshiyar[.]site
+  lahanapancardomateshiyar[.]site
+  odryreo[.]site
